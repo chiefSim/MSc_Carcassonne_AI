@@ -1,0 +1,4 @@
+Pos,Player,MatchesPlayed,Points,BWP,BLP,W,L,D,PD
+1,M_RAVE,4,15,3,0,3,1,0,46.0
+2,MCTS_V,4,12,0,0,3,1,0,-9.8
+3,GP_MCTS,4,0,0,0,0,4,0,-36.2
