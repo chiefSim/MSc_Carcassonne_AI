@@ -76,7 +76,7 @@ python EXP_MCTS_Param
 
 Run the app script (`python Plotly_App.py`) and the following message should appear:
 
-> Dash is running on **http://127.0.0.1:8050/** </br>
+> Dash is running on **http://127.0.0.1:8050/**</br>
 > * Serving Flask app "Plotly_App" (lazy loading)
 > * Environment: production
 >   WARNING: This is a development server. Do not use it in a production deployment.
