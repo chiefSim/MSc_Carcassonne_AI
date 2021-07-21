@@ -1,11 +1,16 @@
 <!-- Add banner here -->
+![Banner](https://github.com/chiefSim/MSc_Carcassonne_AI/readme-editor/Thesis - AI Controllers-banner.png)
 
-# MSC - Building AI Carcassonne for the Game of Carcacassonne
+# MSC - Building AI Controllers for the Game of Carcacassonne
 Master's Project - Carcassonne, AI, MCTS, Expectimax
 
 <!-- Add buttons here -->
 
 <!-- Describe your project in brief -->
+
+The main idea behind the thesis is building and testing AI controllers to play the famous euro-style board game of Carcassonne. AI algorithms include Monte Carlo Tree Search (MCTS), MCTS with Rapid Actio Value Estimation (MCTS-RAVE) and Minimax search algorithms. Some controllers incorporate evolutionary algorithms, in paarticular Evolutionary Strategies (ES) to improve the decision making processes of these AI algorthims.
+
+Extra features include an interactive Game UI that allows human players to compete against AI controllers
 
 <!-- The project title should be self explanotory and try not to make it a mouthful. (Although exceptions exist- **awesome-readme-writing-guide-for-open-source-projects** - would have been a cool name)
 
