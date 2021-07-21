@@ -76,16 +76,12 @@ python EXP_MCTS_Param
 
 Run the app script (`python Plotly_App.py`) and the following message should appear:
 
-
->>> 
-Dash is running on **http://127.0.0.1:8050/**
-
- * Serving Flask app "Plotly_App" (lazy loading)
- * Environment: production
-   WARNING: This is a development server. Do not use it in a production deployment.
-   Use a production WSGI server instead.
- * Debug mode: on
->>>
+> Dash is running on **http://127.0.0.1:8050/** </br>
+> * Serving Flask app "Plotly_App" (lazy loading)
+> * Environment: production
+>   WARNING: This is a development server. Do not use it in a production deployment.
+>   Use a production WSGI server instead.
+> * Debug mode: on
 
 Copy and paste the url (**bold**) into a browser to access the UI containing statistical results from the experiments. A page (similar to below) should appear.
 
