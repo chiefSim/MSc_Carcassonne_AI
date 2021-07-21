@@ -88,7 +88,7 @@ Dash is running on **http://127.0.0.1:8050/**
 
 Copy and paste the url (**bold**) into a browser to access the UI containing statistical results from the experiments. A page (similar to below) should appear.
 
-![results_ui](https://github.com/chiefSim/MSc_Carcassonne_AI/blob/main/readme-editor/results_ui.png)
+![results_ui](https://github.com/chiefSim/MSc_Carcassonne_AI/blob/main/readme-editor/results_ui.PNG)
 
 Use the dropdowns available to filter through the different results sets and filter by AI controller. UI will remain online as long as the `Plotly_App.py` is running.
 
