@@ -87,7 +87,7 @@ Copy and paste the url (hyperlink) into a browser to access the UI containing st
 
 ![results_ui](https://github.com/chiefSim/MSc_Carcassonne_AI/blob/main/readme-editor/results_ui.PNG)
 
-Use the dropdowns available to filter through the different results sets and filter by AI controller. UI will remain online as long as the `Plotly_App.py` is running.
+Use the dropdowns available to filter through the different results sets and filter by AI controller. All plots are **interactive** and will display extra information when hovered over. UI will remain online as long as the `Plotly_App.py` is running.
 
 
 ### Game UI
