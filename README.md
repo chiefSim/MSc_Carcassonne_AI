@@ -23,6 +23,16 @@ Game UI:
 <!-- [menu](https://github.com/chiefSim/MSc_Carcassonne_AI/blob/main/readme-editor/menu.gif) -->
 ![pygame](https://github.com/chiefSim/MSc_Carcassonne_AI/blob/main/readme-editor/pygame.gif)
 
+Controls:
+* Arrows - Rotate tile (Left & Right)
+* NumKeys - Placement of Meeple, if available. (Numbers seen in menu on right as well as on the tile image)
+* Click - Place tile one of the available positions
+* Spacebar - Make AI controller to choose move
+
+Square Colours:
+* Green - Available position on board
+* Blue - Available position on board, but **not** for that Meeple choice
+
 
 # Table of contents
 
