@@ -74,33 +74,32 @@ python EXP_MCTS_Param
 ### Results UI
 [(Back to top)](#table-of-contents)
 
-Run the app script (`python Plotly_App.py`) and 
+Run the app script (`python Plotly_App.py`) and the following message should appear:
+
+```
+Dash is running on **http://127.0.0.1:8050/**
+
+ * Serving Flask app "Plotly_App" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+```
+
+Copy and paste the url (**bold**) into a browser to access the UI containing statistical results from the experiments. A page (similar to below) should appear.
+
+![results_ui](https://github.com/chiefSim/MSc_Carcassonne_AI/blob/main/readme-editor/results_ui.png)
+
+Use the dropdowns available to filter through the different results sets and filter by AI controller. UI will remain online as long as the `Plotly_App.py` is running.
+
 
 ### Game UI
 [(Back to top)](#table-of-contents)
 
+Run the following:
 
-# Development
-[(Back to top)](#table-of-contents)
+```
 
-<!-- This is the place where you give instructions to developers on how to modify the code.
+```
 
-You could give **instructions in depth** of **how the code works** and how everything is put together.
-
-You could also give specific instructions to how they can setup their development environment.
-
-Ideally, you should keep the README simple. If you need to add more complex explanations, use a wiki. Check out [this wiki](https://github.com/navendu-pottekkat/nsfw-filter/wiki) for inspiration. -->
-
-
-# Footer
-[(Back to top)](#table-of-contents)
-
-<!-- Let's also add a footer because I love footers and also you **can** use this to convey important info.
-
-Let's make it an image because by now you have realised that multimedia in images == cool(*please notice the subtle programming joke). -->
-
-Leave a star in GitHub, give a clap in Medium and share this guide if you found this helpful.
-
-<!-- Add the footer here -->
-
-<!-- ![Footer](https://github.com/navendu-pottekkat/awesome-readme/blob/master/fooooooter.png) -->
+Run the 
