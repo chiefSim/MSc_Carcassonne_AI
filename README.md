@@ -83,7 +83,7 @@ Run the app script (`python Plotly_App.py`) and the following message should app
 >   Use a production WSGI server instead.
 > * Debug mode: on
 
-Copy and paste the url (**bold**) into a browser to access the UI containing statistical results from the experiments. A page (similar to below) should appear.
+Copy and paste the url (hyperlink) into a browser to access the UI containing statistical results from the experiments. A page (similar to below) should appear.
 
 ![results_ui](https://github.com/chiefSim/MSc_Carcassonne_AI/blob/main/readme-editor/results_ui.PNG)
 
@@ -96,7 +96,7 @@ Use the dropdowns available to filter through the different results sets and fil
 Run the following:
 
 ```
-
+bash ./PLAY_GAME_UI.sh
 ```
 
-Run the 
+Then a menu will pop up. Use the **arrows** to choose Player 1 and Player 2. Click `Play` to start the game. The game UI (seen above), powered by `pygame` will pop-up next.
