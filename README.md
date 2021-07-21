@@ -21,8 +21,8 @@ Extra features include an interactive Game UI that allows human players to compe
 
 Here is a random GIF as a placeholder.
 
-![menu](https://github.com/chiefSim/MSc_Carcassonne_AI/blob/main/readme-editor/menu.mp4)
-![pygame](https://github.com/chiefSim/MSc_Carcassonne_AI/blob/main/readme-editor/pygame.mp4)
+![menu](https://github.com/chiefSim/MSc_Carcassonne_AI/blob/main/readme-editor/menu.gif)
+![pygame](https://github.com/chiefSim/MSc_Carcassonne_AI/blob/main/readme-editor/pygame.gif)
 
 
 # Table of contents
