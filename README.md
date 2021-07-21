@@ -1,5 +1,5 @@
 <!-- Add banner here -->
-![Banner](https://github.com/chiefSim/MSc_Carcassonne_AI/readme-editor/Thesis-AI Controllers-banner.png)
+![Banner](https://github.com/chiefSim/MSc_Carcassonne_AI/readme-editor/banner.png)
 
 # MSC - Building AI Controllers for the Game of Carcacassonne
 Master's Project - Carcassonne, AI, MCTS, Expectimax
