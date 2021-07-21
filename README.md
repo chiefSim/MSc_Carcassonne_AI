@@ -40,38 +40,41 @@ Game UI:
 # Installation
 [(Back to top)](#table-of-contents)
 
-<!-- *You might have noticed the **Back to top** button(if not, please notice, it's right there!). This is a good idea because it makes your README **easy to navigate.*** 
+* Clone the project
+* Go to project folder
+* Install all packages in `requirements.txt`:
 
-The first one should be how to install(how to generally use your project or set-up for editing in their machine).
-
-This should give the users a concrete idea with instructions on how they can use your project repo with all the steps.
-
-Following this steps, **they should be able to run this in their device.**
-
-A method I use is after completing the README, I go through the instructions from scratch and check if it is working. -->
-
-<!-- Here is a sample instruction:
-
-To use this project, first clone the repo on your device using the command below:
-
-```git init```
-
-```git clone https://github.com/navendu-pottekkat/nsfw-filter.git``` -->
+```
+pip install -r requirement.txt
+```
 
 
 # Usage
 [(Back to top)](#table-of-contents)
 
-<!-- This is optional and it is used to give the user info on how to use the project after installation. This could be added in the Installation section also. -->
-
 
 ### Experiments
 [(Back to top)](#table-of-contents)
 
+To replicate the results from any of the experiments, just execute any of the python scripts with prefix of `EXP_...`. Results of each experiment are stored within their own folder within the `.../logs` directory.
+
+Example:
+
+* Run script:
+
+```
+python EXP_MCTS_Param
+```
+* Location of log files:
+
+```
+.../Carcassonne/logs/MCTS_Param_EXP_2021-07-18
+```
 
 ### Results UI
 [(Back to top)](#table-of-contents)
 
+Run the app script (`python Plotly_App.py`) and 
 
 ### Game UI
 [(Back to top)](#table-of-contents)
